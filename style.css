@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    border: 2PX solid blueviolet;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 5PX;
+    
+}
+p {
+    border: 2PX solid rgb(43, 226, 150);
+    text-align: center;
+    background-color: rgb(192, 199, 197);
+    padding: 5PX;
+    margin: 5px;
+    color:white;
+    width:100%;
+    
+}
